@@ -26,11 +26,18 @@ function Projects() {
 					<Col md={4} className="project-card">
 						<ProjectCard
 							imgPath={CVS}
-							title="Centralized Version Control System"
-							description="this project manages various documents a user 
-							creates as repositories user can make versions and also add
-							other users as collaborators in the project it has been made using the MERN stack"
-							techstack="React | Express | Nodejs | MongoDB"
+							title="QahwaPoint Customer App"
+							description="A cross-platform mobile application built with Flutter that provides customers with a complete
+ordering and account management experience. Developed using BLoC, Provider, and GetX for
+state management and dependency injection, ensuring clean architecture and scalability.
+●Place store orders or order coffee, juice, and tea from vending machines
+●Manage profile, wallet, and child accounts
+●Top up balance and view order history
+●Purchase orders using loyalty points
+●Create and manage packages
+●Build custom recipes for personalized beverages
+●Create, redeem, and gift vouchers"
+							techstack="Koltin | Roomdb | SocialLogin "
 							git="https://github.com/AhmedAli9991/Document-CVS-Centralized-Verion-Control-System-Full-stack-APP"
 						/>
 					</Col>
