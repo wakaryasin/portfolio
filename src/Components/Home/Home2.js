@@ -20,14 +20,14 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I am an 
-              <span className="purple"> Android App Developer </span>
+              <span className="purple"> Mobile App Developer </span>
               from Pakistan. I have 
               <i>
-                <b className="purple"> 5 Years </b>
+                <b className="purple"> 7+ Years </b>
               </i>
               experience in app development using
               <i>
-                <b className="purple"> Java & Kotlin. </b>
+                <b className="purple"> Java, Kotlin & Flutter. Dart</b>
               </i>
               I have worked on differnt architecture like 
               <i>
@@ -36,7 +36,7 @@ function Home2() {
               <br />
               I also worked on different Jetpack components like 
               <i>
-                <b className="purple"> Room,  Dependency Injection, WorkManger, ViewModel, LiveData, Navigation, Paging, Data Binding, View Binding.  </b>
+                <b className="purple"> Room,  Dependency Injection, WorkManger, ViewModel, LiveData, Navigation, Paging, Data Binding, View Binding. GetX </b>
               </i>
               Along this also implemented social Logins
               <i>
@@ -48,7 +48,7 @@ function Home2() {
               </i>
               and different payment methods 
               <i>
-                <b className="purple"> Stripe, Ekyash, EasyPesa, JazzCash. </b>
+                <b className="purple"> Stripe, Ekyash, EasyPesa, JazzCash. Tap Payment,</b>
               </i>
               and also
                <i>
